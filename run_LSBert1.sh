@@ -1,5 +1,5 @@
-export BERT_DIR=/home/qiang/Desktop/pytorch-pretrained-BERT/
-export Result_DIR=/home/qiang/Desktop/pytorch-pretrained-BERT/results
+export BERT_DIR=pytorch_pretrained_bert
+export Result_DIR=pytorch_pretrained_bert/results
 
 
 python3 LSBert1.py \
